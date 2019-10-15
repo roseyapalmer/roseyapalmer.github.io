@@ -1,11 +1,11 @@
 {% comment %}
   Displays the address from _data/information.yml properly formatted
+  {% if site.title %}{{ site.title }}<br />{% endif %}
 {% endcomment %}
 
 {% if site.data.information %}
 {% assign info = site.data.information %}
 <p>
-  {% if site.title %}{{ site.title }}<br />{% endif %}
   <br />
   {% if info.address_1 %}{{ info.address_1 }}<br />{% endif %}
   {% if info.address_2 %}{{ info.address_2 }}<br />{% endif %}
