@@ -5,8 +5,8 @@ banner_image: "/uploads/2018/02/17/college-building.jpg"
 heading: Occupational Services
 sub_heading: ''
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: Specialist pediatric Occupational Therapy services for the Health and Education
+  sectors.
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
