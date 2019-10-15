@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2019/10/15/encouraging-creativity-preschoolers-2.jpg"
 layout: landing-page
-heading: Rosemary Palmer Occupational Therapy
+heading: Occupational Therapy
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
