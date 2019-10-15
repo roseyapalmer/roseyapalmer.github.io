@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2019/10/15/encouraging-creativity-preschoolers.jpg"
+banner_image: "/uploads/2019/10/15/encouraging-creativity-preschoolers-1.jpg"
 layout: landing-page
 heading: Rosemary Palmer Occupational Therapy
 partners:
