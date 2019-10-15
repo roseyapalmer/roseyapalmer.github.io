@@ -10,7 +10,6 @@ menu:
   navigation:
     identifier: _contact
     weight: 4
-
 ---
 
 ## Contact Information
