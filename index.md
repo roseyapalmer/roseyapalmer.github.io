@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2019/10/15/encouraging-creativity-preschoolers.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Rosemary Palmer Occupational Therapy
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -13,14 +13,11 @@ services:
   heading: Health
   icon: "/uploads/2017/11/13/health.png"
 - description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+    the education sector.
+  heading: Education
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: |
-  Belkirk College of Engineering
-
-  Ora et Labora
+sub_heading: Pediatric Services
+textline: Rosemary Palmer Occupational Therapy
 hero_button:
   text: Learn more
   href: "/about"
